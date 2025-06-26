@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=manish1234783&label=Profile%20views&color=0e75b6&style=flat" alt="manish1234783" />
 </p>
 
-- 🌱 I’m currently learning **SQL, Python**
+- 🌱 I’m currently learning Python**
 - 📫 How to reach me **manishshiva130@gmail.com**
 - 😁 Fun fact **I am funny 😎😜**
 
