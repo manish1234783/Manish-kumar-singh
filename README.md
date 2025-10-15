@@ -21,7 +21,7 @@
   </a>
   <a href="https://instagram.com/_itzmanish" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Tableau_Logo.png" alt="Tableau" height="30" width="40" />
+ 
 
   </a>
 </p>
@@ -32,7 +32,7 @@
   cc
   </a>
 </p>
-
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Tableau_Logo.png" alt="Tableau" height="30" width="40" />
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish1234783&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
