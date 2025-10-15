@@ -32,7 +32,7 @@
   cc
   </a>
 </p>
-   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Tableau_Logo.png" alt="Tableau" height="30" width="40" />
+  
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish1234783&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
