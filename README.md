@@ -28,10 +28,36 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  cc
+    PostgreSQL
+  </a>
+  &nbsp;|&nbsp;
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    MySQL
+  </a>
+  &nbsp;|&nbsp;
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    Power BI
+  </a>
+  &nbsp;|&nbsp;
+
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    Tableau
+  </a>
+  &nbsp;|&nbsp;
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+    Excel
   </a>
 </p>
+
   
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish1234783&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
