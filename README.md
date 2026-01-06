@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm MANISH KUMAR SINGH</h1>
 <h3 align="center">Data Analyst | Storytelling with Data | From India 🇮🇳|AI Curious • Future-Ready</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=python,postgres,mysql,powerbi,tableau,excel,git,github,vscode&theme=dark&perline=9"
-      alt="Tech Stack"
-      height="48"
-    />
-  </a>
-</p>
-
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
