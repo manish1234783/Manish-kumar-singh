@@ -30,33 +30,34 @@
 <p align="left">
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    PostgreSQL
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40"/>
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    MySQL
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/>
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;
 
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    Power BI
+    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" height="40"/>
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;
 
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    Tableau
+    <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" height="40"/>
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;
 
   <!-- Excel -->
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    Excel
+    <img src="https://skillicons.dev/icons?i=excel" alt="Excel" height="40"/>
   </a>
 </p>
+
 
   
 <p>
