@@ -4,10 +4,7 @@
 <!-- Typing effect -->
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=520&lines=Data+Analyst+from+India;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+data+into+futuristic+dashboards;Always+learning+%26+experimenting" alt="Typing SVG" />
-  </a>
-</p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Python+%7C+SQL;Turning+raw+data+into+clear+insights;Always+learning+something+new+every+day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=520&lines=Data+Analyst+from+India;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+data+into+futuristic+dashboards;Always+learning+%26+experimenting" alt="Typing SVG"Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Python+%7C+SQL;Turning+raw+data+into+clear+insights;Always+learning+something+new+every+day" alt="Typing SVG" />
 </p>
 
 <!-- Right side GIF -->
