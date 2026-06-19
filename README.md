@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MANISH KUMAR SINGH</h1>
-<h3 align="center">Data Analyst | Storytelling with Data | From India 🇮🇳|AI Curious • Future-Ready</h3>
+<h3 align="center">Data Analyst | Storytelling with Data | From India |AI Curious • Future-Ready</h3>
 
 <!-- Typing effect -->
 <p align="center">
